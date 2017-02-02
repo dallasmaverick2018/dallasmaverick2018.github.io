@@ -1,0 +1,10 @@
+Загрузка файла:
+http://www.w3schools.com/php/php_file_upload.asp
+
+
+Очень хорошее видео:
+How to upload image to MySQL database and display it using php
+https://www.youtube.com/watch?v=Ipa9xAs_nTg
+
+Тоже вроде что-то полезное
+http://www.codingcage.com/2014/12/file-upload-and-view-with-php-and-mysql.html
